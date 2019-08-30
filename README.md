@@ -10,6 +10,7 @@ jjj249036644 的个人博客
 
 ### 最新
 
+* [跟着Head First学设计模式(一) -- 观察者模式](http://www.jinjianjia.xyz/articles/2019/08/30/1567180714315.html)
 * [我在 GitHub 上的开源项目](http://www.jinjianjia.xyz/my-github-repos)
 * [世界，你好！](http://www.jinjianjia.xyz/hello-solo)
 
